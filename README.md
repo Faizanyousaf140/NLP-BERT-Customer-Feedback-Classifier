@@ -58,7 +58,7 @@ Accuracy
 
 Precision / Recall / F1-score
 
-Confusion Matrix (PNG)
+Confusion Matrix 
 
 Example predictions
 
