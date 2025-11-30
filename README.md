@@ -12,7 +12,7 @@ Dataset used:
 
 ✔ Fine-tuning BERT for classification
 
-✔ Comprehensive evaluation
+✔ Comprehensive evaluation:
 
 Accuracy
 
@@ -23,7 +23,6 @@ Confusion Matrix
 ✔ Example predictions
 
 ✔ Clean, modular Python scripts
-
 
 🚀 How to Run the Project
 1️⃣ Install Dependencies
@@ -45,7 +44,7 @@ confusion_matrix.png
 
 metrics.txt
 
-Sample predictions
+sample_predictions.txt
 
 🧪 Inference Example
 
